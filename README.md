@@ -1,5 +1,5 @@
 ## alx-system_engineering-devops
-# General:
+# General
 
 What is a Shebang
 
@@ -79,7 +79,7 @@ How to cancel half-entered commands
 
 How to quit Emacs
 
-# vi
+# Vi
 
 What is vi
 
